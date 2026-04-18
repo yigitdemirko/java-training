@@ -19,6 +19,7 @@ Basic exercises completed as part of the bootcamp curriculum.
 | `Ucgen` | Triangle Calculator | Math.sqrt, Heron's formula |
 | `Taksimetre` | Taximeter | Scanner, arithmetic, ternary operator |
 | `Daire` | Circle Calculator | Math formulas, printf formatting |
+| `VucutKitleIndeksi` | BMI Calculator | Scanner, arithmetic |
 
 
 ## Concepts Covered
