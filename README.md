@@ -8,6 +8,12 @@ This repository contains exercises and projects completed during my backend deve
 |---|---|---|
 | `payment` | Payment Service | SOLID Principles, Interface-based design |
 
+## Personal Studies
+
+| Package | Topic | Concepts |
+|---|---|---|
+| `shipment` | Shipment Service | Strategy Pattern, Interface-based design |
+
 ## Java 101
 
 Basic exercises completed as part of the bootcamp curriculum.
@@ -22,11 +28,11 @@ Basic exercises completed as part of the bootcamp curriculum.
 | `VucutKitleIndeksi` | BMI Calculator | Scanner, arithmetic |
 | `ManavKasa` | Grocery Cash Register | Scanner, arithmetic, printf |
 
-
 ## Concepts Covered
 
 - SOLID Principles (SRP, OCP, DIP)
 - Interface-based design
+- Strategy Pattern
 
 ## Notes
 
