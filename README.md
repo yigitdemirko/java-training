@@ -13,6 +13,7 @@ This repository contains exercises and projects completed during my backend deve
 | Package | Topic | Concepts |
 |---|---|---|
 | `shipment` | Shipment Service | Strategy Pattern, Interface-based design |
+| `notification` | Notification Service | OCP, Interface-based design, DIP |
 
 ## Java 101
 
