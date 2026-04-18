@@ -18,6 +18,8 @@ Basic exercises completed as part of the bootcamp curriculum.
 | `KdvHesaplama` | KDV Calculator | Scanner, arithmetic, ternary operator |
 | `Ucgen` | Triangle Calculator | Math.sqrt, Heron's formula |
 | `Taksimetre` | Taximeter | Scanner, arithmetic, ternary operator |
+| `Daire` | Circle Calculator | Math formulas, printf formatting |
+
 
 ## Concepts Covered
 
