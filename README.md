@@ -20,6 +20,7 @@ Basic exercises completed as part of the bootcamp curriculum.
 | `Taksimetre` | Taximeter | Scanner, arithmetic, ternary operator |
 | `Daire` | Circle Calculator | Math formulas, printf formatting |
 | `VucutKitleIndeksi` | BMI Calculator | Scanner, arithmetic |
+| `ManavKasa` | Grocery Cash Register | Scanner, arithmetic, printf |
 
 
 ## Concepts Covered
