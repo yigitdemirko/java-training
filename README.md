@@ -16,6 +16,7 @@ Basic exercises completed as part of the bootcamp curriculum.
 |---|---|---|
 | `NotOrtalamasi` | Grade Average Calculator | Scanner, arithmetic, ternary operator |
 | `KdvHesaplama` | KDV Calculator | Scanner, arithmetic, ternary operator |
+| `Ucgen` | Triangle Calculator | Math.sqrt, Heron's formula |
 
 ## Concepts Covered
 
