@@ -14,12 +14,17 @@ public class Main {
             System.out.printf("  %d. %s%n", i + 1, options[i]);
         }
 
-        System.out.print("Choice: ");
-        int choice = Integer.parseInt(scanner.nextLine().trim()) - 1;
-
-        if (choice < 0 || choice >= options.length) {
-            System.out.println("Invalid choice.");
-            return;
+        int choice = -1;
+        while (choice < 0 || choice >= options.length) {
+            System.out.print("Choice: ");
+            try {
+                choice = Integer.parseInt(scanner.nextLine().trim()) - 1;
+            } catch (NumberFormatException e) {
+                choice = -1;
+            }
+            if (choice < 0 || choice >= options.length) {
+                System.out.println("Invalid choice. Please enter a number between 1 and " + options.length + ".");
+            }
         }
 
         String selectedClass = options[choice];
