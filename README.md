@@ -35,6 +35,20 @@ Basic exercises completed as part of the bootcamp curriculum.
 | `DiziSiralama` | Array Sorting | Scanner, bubble sort |
 | `ElemanFrekans` | Element Frequency Finder | Arrays, nested loops |
 | `MatrisTranspoz` | Matrix Transpose | 2D arrays, nested loops |
+| `SayiTahminOyunu` | Number Guessing Game | Random, Scanner, arrays, loops |
+| `PalindromKelime` | Palindrome Checker | Scanner, String, two-pointer |
+| `ogrenci/` | Student Grade System | OOP, weighted average, oral exam |
+| `boks/` | Boxing Match Simulation | OOP, Random, dodge mechanics |
+| `Employee` | Employee Salary Calculator | OOP, tax, bonus, raise logic |
+| `HesapMakinesi` | Calculator | Scanner, switch-case |
+| `SifreSifirlama` | Password Reset System | Scanner, String comparison |
+| `DersOrtalama` | Grade Average with Validation | Scanner, loops, input validation |
+| `HavaEtkinlik` | Weather Activity Suggester | if-else, switch-case, ternary |
+| `UcSayiSiralama` | Three Number Sorter | Scanner, if-else |
+| `BurcBulucu` | Zodiac Sign Finder | Scanner, if-else |
+| `UcakBileti` | Flight Ticket Calculator | Scanner, discount logic |
+| `CinZodyak` | Chinese Zodiac Calculator | Scanner, modulo, arrays |
+| `ArtikYil` | Leap Year Checker | Scanner, boolean logic |
 
 ## Concepts Covered
 
