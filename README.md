@@ -6,7 +6,7 @@ This repository contains exercises and projects completed during my backend deve
 
 | Package | Topic | Concepts |
 |---|---|---|
-| `payment` | Payment Service | SOLID Principles, Interface-based design |
+| `payment` | Payment Service | SOLID Principles, Interface-based design, Reflection, Interactive CLI |
 
 ## Personal Studies
 
@@ -31,9 +31,10 @@ Basic exercises completed as part of the bootcamp curriculum.
 
 ## Concepts Covered
 
-- SOLID Principles (SRP, OCP, DIP)
+- SOLID Principles (SRP, OCP, LSP, DIP)
 - Interface-based design
 - Strategy Pattern
+- Reflection (dynamic class instantiation)
 
 ## Notes
 
