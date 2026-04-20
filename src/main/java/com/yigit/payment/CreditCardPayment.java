@@ -4,6 +4,9 @@ public class CreditCardPayment implements PaymentMethod {
     private String cardNumber;
 
     public CreditCardPayment(String cardNumber) {
+        if (cardNumber == null || !cardNumber.matches("\\d{16}")) {
+            throw new IllegalArgumentException("Card number must be exactly 16 digits.");
+        }
         this.cardNumber = cardNumber;
     }
 

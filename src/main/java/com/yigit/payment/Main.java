@@ -24,13 +24,20 @@ public class Main {
 
         String selectedClass = options[choice];
 
-        System.out.print("Enter credential (card number / user ID): ");
-        String credential = scanner.nextLine().trim();
+        PaymentMethod paymentMethod = null;
+        while (paymentMethod == null) {
+            System.out.print("Enter credential (card number / user ID): ");
+            String credential = scanner.nextLine().trim();
+            try {
+                paymentMethod = PaymentFactory.create(selectedClass, credential);
+            } catch (IllegalArgumentException e) {
+                System.out.println("Invalid input: " + e.getMessage());
+            }
+        }
 
         System.out.print("Enter amount: $");
         double amount = Double.parseDouble(scanner.nextLine().trim());
 
-        PaymentMethod paymentMethod = PaymentFactory.create(selectedClass, credential);
         PaymentProcessor processor = new PaymentProcessor(paymentMethod);
         processor.checkout(amount);
 
