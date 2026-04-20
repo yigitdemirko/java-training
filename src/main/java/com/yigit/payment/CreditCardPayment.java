@@ -8,9 +8,8 @@ public class CreditCardPayment implements PaymentMethod {
     }
 
     @Override
-    public void processPayment(double amount) {
-        System.out.println("Processing credit card payment for amount: $" + amount);
-        System.out.println("Card Number: " + cardNumber);
+    public String processPayment(double amount) {
+        return String.format("✔ Credit Card payment of $%.2f processed. Card: %s", amount, maskCardNumber());
     }
 
     @Override

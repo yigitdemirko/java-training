@@ -9,9 +9,8 @@ public class ApplePayPayment implements PaymentMethod {
     }
 
     @Override
-    public void processPayment(double amount) {
-        System.out.println("Processing Apple Pay payment for amount: $" + amount);
-        System.out.println("Apple Pay User: " + userId);
+    public String processPayment(double amount) {
+        return String.format("✔ Apple Pay payment of $%.2f processed. User: %s", amount, userId);
     }
 
     @Override

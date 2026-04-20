@@ -1,6 +1,6 @@
 package com.yigit.payment;
 
 public interface PaymentMethod {
-    void processPayment(double amount);
+    String processPayment(double amount);
     String getPaymentType();
 }

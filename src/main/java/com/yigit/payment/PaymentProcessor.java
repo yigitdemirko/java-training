@@ -8,8 +8,9 @@ public class PaymentProcessor {
     }
 
     public void checkout(double amount) {
-        System.out.println("Starting checkout...");
-        paymentMethod.processPayment(amount);
-        System.out.println("Payment completed.");
+        System.out.println("\n--- Checkout ---");
+        String result = paymentMethod.processPayment(amount);
+        System.out.println(result);
+        System.out.println("----------------\n");
     }
 }
