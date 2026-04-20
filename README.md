@@ -49,6 +49,26 @@ Basic exercises completed as part of the bootcamp curriculum.
 | `UcakBileti` | Flight Ticket Calculator | Scanner, discount logic |
 | `CinZodyak` | Chinese Zodiac Calculator | Scanner, modulo, arrays |
 | `ArtikYil` | Leap Year Checker | Scanner, boolean logic |
+| `BolunenOrtalama` | Average of Divisibles by 3 and 4 | Scanner, loops |
+| `CiftDortKati` | Sum of Even Multiples of 4 | Scanner, while loop |
+| `KuvvetYazdir` | Powers of 4 and 5 Printer | Scanner, loops |
+| `Kombinasyon` | Combination Calculator | Scanner, factorial, C(n,r) |
+| `UsluSayi` | Power Calculator (for loop) | Scanner, for loop |
+| `BasamakToplami` | Digit Sum Calculator | Scanner, while loop |
+| `HarmonikSeri` | Harmonic Series Calculator | Scanner, loops |
+| `ElmasYildiz` | Diamond Star Pattern | Scanner, nested loops |
+| `ATM` | ATM Simulation | Scanner, switch-case, do-while |
+| `EbobEkok` | GCD and LCM Calculator | Scanner, Euclidean algorithm |
+| `MaxMinBulucu` | Max and Min from N Inputs | Scanner, loops |
+| `MukemmelSayi` | Perfect Number Checker | Scanner, loops |
+| `TersUcgen` | Inverted Triangle Pattern | Scanner, nested loops |
+| `AsalSayilar` | Prime Numbers 1-100 | loops, Math.sqrt |
+| `Fibonacci` | Fibonacci Series | Scanner, loops |
+| `FibonacciRecursive` | Fibonacci Series (Recursive) | Scanner, recursion |
+| `GelisMisHesapMakinesi` | Advanced Calculator | Scanner, switch-case, methods |
+| `UsluSayiRecursive` | Power Calculator (Recursive) | Scanner, recursion |
+| `AsalSayiRecursive` | Prime Number Checker (Recursive) | Scanner, recursion |
+| `BesEksiEkle` | Subtract and Add 5 Pattern | Scanner, recursion |
 
 ## Concepts Covered
 
