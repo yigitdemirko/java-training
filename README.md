@@ -28,6 +28,13 @@ Basic exercises completed as part of the bootcamp curriculum.
 | `Daire` | Circle Calculator | Math formulas, printf formatting |
 | `VucutKitleIndeksi` | BMI Calculator | Scanner, arithmetic |
 | `ManavKasa` | Grocery Cash Register | Scanner, arithmetic, printf |
+| `HarmonikOrtalama` | Harmonic Mean Calculator | Arrays, loops, arithmetic |
+| `EnYakinSayi` | Closest Number Finder | Arrays, Scanner, nested loops |
+| `BHarfi` | Letter B Printer | 2D arrays, nested loops |
+| `TekrarEdenCiftSayilar` | Repeating Even Numbers | Arrays, nested loops |
+| `DiziSiralama` | Array Sorting | Scanner, bubble sort |
+| `ElemanFrekans` | Element Frequency Finder | Arrays, nested loops |
+| `MatrisTranspoz` | Matrix Transpose | 2D arrays, nested loops |
 
 ## Concepts Covered
 
