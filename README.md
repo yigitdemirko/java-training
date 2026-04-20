@@ -69,6 +69,7 @@ Basic exercises completed as part of the bootcamp curriculum.
 | `UsluSayiRecursive` | Power Calculator (Recursive) | Scanner, recursion |
 | `AsalSayiRecursive` | Prime Number Checker (Recursive) | Scanner, recursion |
 | `BesEksiEkle` | Subtract and Add 5 Pattern | Scanner, recursion |
+| `minesweeper/` | Minesweeper Game | 2D arrays, OOP, Random, game logic |
 
 ## Concepts Covered
 
